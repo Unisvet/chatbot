@@ -12,5 +12,5 @@ How to use the prebuilt agent:
 You can also find the step-by-step documentation under:
 https://cloud.google.com/dialogflow/cx/docs/concept/agents-prebuilt 
 
-It is a simple convesational agent Cottbi that can communicate with your customers describing some products from your web-site.
+It is a simple conversational agent Cottbi that can communicate with your customers describing some products from your web-site.
 Cottbi was built on the basis of the German Site https://www.kompetenzzentrum-cottbus.digital/
